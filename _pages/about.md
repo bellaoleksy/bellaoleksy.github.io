@@ -11,7 +11,7 @@ redirect_from:
 Welcome!
 ======
 
-In Fall 2019, I started a postdoctoral research position with [Dr. Chris Solomon](https://www.caryinstitute.org/science/our-scientists/dr-christopher-t-solomon) at the Cary Institute for Ecosystems Studies. Our project will use existing datasets, including long-term, whole-lake manipulations, to test recently developed theory describing effects of terrestrial dissolved organic carbon and nutrient loads on lake food web productivity (more here!).
+In Fall 2019, I started a postdoctoral research position with [Dr. Chris Solomon](https://www.caryinstitute.org/science/our-scientists/dr-christopher-t-solomon) at the Cary Institute for Ecosystems Studies. Our project will use existing datasets, including long-term, whole-lake manipulations, to test recently developed theory describing effects of terrestrial dissolved organic carbon and nutrient loads on lake food web productivity (more here!). Smol change. 
 
 I received my Ph.D. in Ecology from Colorado State University where I studied how atmospheric deposition of nutrients and recent climate change have altered the ecology of Colorado mountain lakes. I worked in the Loch Vale Watershed Long-Term Ecological Research & Monitoring Program. In recent years, we have seen a rise in benthic (lake bottom) algal blooms in our subalpine and alpine lakes, and we are doing ongoing work to investigate these changes, both in Loch Vale, as well as in other remote "pristine" lakes.
 
